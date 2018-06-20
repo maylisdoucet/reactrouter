@@ -1,7 +1,33 @@
 {
-  "title": "gameinvitations",
-  "description": "Liste de mes invitations à des matchs",
+  "title": "mymatchs",
+  "description": "Liste de mes matchs (invitation, futurs et passés",
   "gameinvitations": [
+    {
+      "gameDateTime": "2018-08-26 17:30:00",
+      "city": "Paris 15ème",
+      "country": "France",
+      "adressLanguage": "265 rue Vaugirard, 75015 Paris",
+      "players": 1,
+      "playersRequest": 3,
+      "playersInvited": 2,
+      "teamName": "La rive gauche en force",
+      "firstName": "Aurélien",
+      "position": "pivot",
+      "photo": "https://raw.githubusercontent.com/cyrilBlondeau/wild-project/master/avatar.png",
+      "lastConnection": "2018-07-04 17:30:00",
+      "access": "Match fermé",
+      "friend": 0,
+      "teamMate": 0,
+      "friendsNumber": 7,
+      "otherPlayers": [
+        {"firstname": "Bill", "position": "ailier", "photo": "https://raw.githubusercontent.com/cyrilBlondeau/wild-project/master/avatar.png", "lastConnection": "2018-07-04 17:30:00", "friend": 0, "teamMate": 1, "friendsNumber": 78},
+        {"firstname": "Doyle", "position": "pivot", "photo": "https://raw.githubusercontent.com/cyrilBlondeau/wild-project/master/avatar.png", "lastConnection": "2018-07-04 17:30:00", "friend": 0, "teamMate": 1, "friendsNumber": 78},
+        {"firstname": "Luigi", "position": "pivot", "photo": "https://raw.githubusercontent.com/cyrilBlondeau/wild-project/master/avatar.png", "lastConnection": "2018-07-04 17:30:00", "friend": 0, "teamMate": 1, "friendsNumber": 78}
+      ]
+    }
+  ],
+  "futuregames"
+  : [
     {
       "gameDateTime": "2018-08-26 17:30:00",
       "city": "Paris 15ème",
