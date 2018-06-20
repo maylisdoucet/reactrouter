@@ -29,26 +29,27 @@
   "futuregames"
   : [
     {
-      "gameDateTime": "2018-08-26 17:30:00",
-      "city": "Paris 15ème",
+      "gameDateTime": "2018-07-17 19:00:00",
+      "city": "Paris 18ème",
       "country": "France",
-      "adressLanguage": "265 rue Vaugirard, 75015 Paris",
+      "adressLanguage": "10 rue Feutrier, 75018 Paris",
       "players": 1,
-      "playersRequest": 3,
+      "playersRequest": 7,
       "playersInvited": 2,
-      "teamName": "La rive gauche en force",
-      "firstName": "Aurélien",
-      "position": "pivot",
+      "teamName": "Les dunkers de Montmartre",
+      "firstName": "Cyril",
+      "position": "ailier",
       "photo": "https://raw.githubusercontent.com/cyrilBlondeau/wild-project/master/avatar.png",
       "lastConnection": "2018-07-04 17:30:00",
-      "access": "Match fermé",
-      "friend": 0,
+      "access": "Match ouvert",
+      "friend": 1,
       "teamMate": 0,
-      "friendsNumber": 7,
+      "friendsNumber": 11,
       "otherPlayers": [
-        {"firstname": "Bill", "position": "ailier", "photo": "https://raw.githubusercontent.com/cyrilBlondeau/wild-project/master/avatar.png", "lastConnection": "2018-07-04 17:30:00", "friend": 0, "teamMate": 1, "friendsNumber": 78},
-        {"firstname": "Doyle", "position": "pivot", "photo": "https://raw.githubusercontent.com/cyrilBlondeau/wild-project/master/avatar.png", "lastConnection": "2018-07-04 17:30:00", "friend": 0, "teamMate": 1, "friendsNumber": 78},
-        {"firstname": "Luigi", "position": "pivot", "photo": "https://raw.githubusercontent.com/cyrilBlondeau/wild-project/master/avatar.png", "lastConnection": "2018-07-04 17:30:00", "friend": 0, "teamMate": 1, "friendsNumber": 78}
+        {"firstname": "Frank", "position": "ailier", "photo": "https://raw.githubusercontent.com/cyrilBlondeau/wild-project/master/avatar.png", "lastConnection": "2018-07-04 17:30:00", "friend": 0, "teamMate": 1, "friendsNumber": 78},
+        {"firstname": "Marc", "position": "pivot", "photo": "https://raw.githubusercontent.com/cyrilBlondeau/wild-project/master/avatar.png", "lastConnection": "2018-07-04 17:30:00", "friend": 0, "teamMate": 1, "friendsNumber": 78},
+        {"firstname": "Ludwig", "position": "ailier", "photo": "https://raw.githubusercontent.com/cyrilBlondeau/wild-project/master/avatar.png", "lastConnection": "2018-07-04 17:30:00", "friend": 0, "teamMate": 1, "friendsNumber": 78},
+        {"firstname": "Cyril", "position": "pivot", "photo": "https://raw.githubusercontent.com/cyrilBlondeau/wild-project/master/avatar.png", "lastConnection": "2018-07-04 17:30:00", "friend": 0, "teamMate": 1, "friendsNumber": 78}
       ]
     }
   ]
