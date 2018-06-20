@@ -1,7 +1,7 @@
 {
-  "title": "gameInvitations",
+  "title": "gameinvitations",
   "description": "Liste de mes invitations à des matchs",
-  "gameInvitations": [
+  "gameinvitations": [
     {
       "gameDateTime": "2018-08-26 17:30:00",
       "city": "Paris 15ème",
