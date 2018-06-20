@@ -1,12 +1,13 @@
 {
-  "title": "Profile",
-  "description": "Profile_Hight_Part_With_Name_Age_Level_Modd",
+  "title": "profile_hight_part",
+  "description": "profile_hight_part",
   "profile": [
     {
-      "name": "Jeannot",
-      "age": 38,
-      "level": "avancé",
-      "mood": "En pleine forme"
+      "nickname": "Jeannot",
+      "birthdate": 38,
+      "playerlevel": "avancé",
+      "mood": "En pleine forme",
+      "photo": "https://raw.githubusercontent.com/cyrilBlondeau/wild-project/master/avatar.png"
     }
       ]
 }
